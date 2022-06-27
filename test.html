@@ -8,7 +8,6 @@
 <li> thing </li>
 <li> other thing </li>
 </ul>
-<iframe src = "file:///C:/Users/jkohh/Desktop/injection.html" title = "this is a video"></iframe>
 <div> WHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE </div>
 <p>something else</p>
 <span> WHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE</span>
@@ -20,23 +19,23 @@
 <style>
 @keyframes bgcolor {
     0% {
-        background-color: #45b3f0
+        background-color: #fffff0
     }
 
     30% {
-        background-color: #aa89ff
+        background-color: #aaffff
     }
 
     60% {
-        background-color: #40c79f
+        background-color: #ffff9f
     }
 
     90% {
-        background-color: #f990f0
+        background-color: #ff90ff
     }
 
     100% {
-        background-color: #85fcbf
+        background-color: #85ffff
     }
 }
 
@@ -75,18 +74,6 @@ function dec2hexString(dec) {
    var spl = raw.split("");
    return spl[2] + spl[3]
 }
-function getRandomColor(){
-	var r = Math.floor(Math.random() * 255);
-	var g = Math.floor(Math.random() * 255);
-	var b = Math.floor(Math.random() * 255);
-	return "#"+ dec2hexString(r)+ dec2hexString(g)+ dec2hexString(b);
-}
-function randomizeColor(){
-	while(true) {
-		setTimeout(
-			changeBodyBg(getRandomColor()), 5000)	
-	}
-}
 function changeText(){
 	document.getElementById("myp").innerHTML = "changed";
 }
@@ -108,8 +95,6 @@ function test(){
 <p id="myp">This is by paragraph</p>
 <span>
 <button onclick="window.print()">Print this page</button>
-<input type="button" onclick="changeBodyBg('white')" value="change my color to white!"> 
-<input type="button" onclick="changeBodyBg(getRandomColor())" value="change my color to random!">
 <input type="button" onclick="changeText()" value="change the text">
 <input type="button" onclick="test()" value="this is a test button">
 <input type="text" id="keyword" value="type the keyword here">
