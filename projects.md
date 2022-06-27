@@ -1,3 +1,4 @@
+
 # Projects
 
 Here are some of the projects/hobbies I've been working on over the years:
