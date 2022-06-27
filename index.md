@@ -1,5 +1,5 @@
 # I'm Jayden Koh. This is my website.
 
-[Projects](/projects.md)
+[Projects](/projects)
 
-[About Me](/about.md)
+[About Me](/about)
