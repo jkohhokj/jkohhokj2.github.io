@@ -1,5 +1,1 @@
-## I'm Jayden Koh.
-
-[Projects](/projects.md)
-
-[About Me](/about.md)
+## I'm Jayden Koh. This is my website.
