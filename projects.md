@@ -90,31 +90,31 @@ Maybe I'll put some pics and do some sort of progress update sooner or later.
 
 Static Skills:
 
-- [ ] [Front lever](https://workout-temple.com/en/calisthenics-articles/front-lever-biomechanics)
-- [ ] [Back lever](https://www.bergmovement.com/calisthenics-blog/back-lever-tutorial)
-- [ ] [Planche](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fba%2FPlanche.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPlanche_(exercise)&tbnid=szGW_Pg66M00OM&vet=12ahUKEwid7cnWlNT4AhUpAZ0JHRWuCbcQMygAegUIARDeAQ..i&docid=slLNXRMehtjryM&w=4070&h=2512&itg=1&q=Planche&ved=2ahUKEwid7cnWlNT4AhUpAZ0JHRWuCbcQMygAegUIARDeAQ)
-- [ ] [Human flag](https://www.youtube.com/watch?v=TF9XhvYh_m8)
-- [ ] [One arm deadhang](https://www.healthline.com/health/fitness-exercise/dead-hang)
-- [ ] [Elbow Bar](https://www.calisthenics-101.co.uk/skin-the-cat-calisthenics-exercise-tutorial)
-- [ ] [V-sit](https://breakingmuscle.com/master-the-v-sit-to-develop-athleticism-and-injury-proof-shoulders/)
-- [x] [Skin the cat](https://www.calisthenics-101.co.uk/skin-the-cat-calisthenics-exercise-tutorial)
-- [x] [L-sit](https://barbend.com/l-sit/)
+- [ ]    [Front lever](https://workout-temple.com/en/calisthenics-articles/front-lever-biomechanics)
+- [ ]    [Back lever](https://www.bergmovement.com/calisthenics-blog/back-lever-tutorial)
+- [ ]    [Planche](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fb%2Fba%2FPlanche.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPlanche_(exercise)&tbnid=szGW_Pg66M00OM&vet=12ahUKEwid7cnWlNT4AhUpAZ0JHRWuCbcQMygAegUIARDeAQ..i&docid=slLNXRMehtjryM&w=4070&h=2512&itg=1&q=Planche&ved=2ahUKEwid7cnWlNT4AhUpAZ0JHRWuCbcQMygAegUIARDeAQ)
+- [ ]    [Human flag](https://www.youtube.com/watch?v=TF9XhvYh_m8)
+- [ ]    [One arm deadhang](https://www.healthline.com/health/fitness-exercise/dead-hang)
+- [ ]    [Elbow Bar](https://www.calisthenics-101.co.uk/skin-the-cat-calisthenics-exercise-tutorial)
+- [ ]    [V-sit](https://breakingmuscle.com/master-the-v-sit-to-develop-athleticism-and-injury-proof-shoulders/)
+- [ ]    [Skin the cat](https://www.calisthenics-101.co.uk/skin-the-cat-calisthenics-exercise-tutorial)
+- [ ]    [L-sit](https://barbend.com/l-sit/)
 
 Dynamic Skills:
 
-- [ ] [360 spin](https://www.youtube.com/watch?v=mscEyaTj_zE)
-- [ ] [Shrimps](https://www.youtube.com/watch?v=IjMaWDCGVeQ)
-- [ ] [Muscle up](https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod.s3.amazonaws.com%2Fimages%2Fmusclemain-1548177476.jpg&imgrefurl=https%3A%2F%2Fwww.menshealth.com%2Fuk%2Fbuilding-muscle%2Fa25991719%2Fhow-to-do-first-muscle-up-an-experts-guide%2F&tbnid=692648AC09lD5M&vet=12ahUKEwjr_4D8lNT4AhVIBM0KHdcKAv8QMygCegUIARDiAQ..i&docid=H0mpCOogzjyTXM&w=2000&h=1000&q=Muscle-up&ved=2ahUKEwjr_4D8lNT4AhVIBM0KHdcKAv8QMygCegUIARDiAQ)
-- [ ] [Dynamic muscle up](https://youtu.be/6eZQxUHefhI?t=215)
-- [ ] [Knee gainer](https://www.youtube.com/watch?v=OUEI6KZtB6I)
-- [ ] One arm push up (common sense)
-- [ ] [Walking pull up](https://www.youtube.com/watch?v=bLj__geDgs8)
-- [ ] [Dragon flag](https://bodybuilding-wizard.com/the-dragon-flag-exercise-guide/)
-- [ ] Two finger pull up (common sense)
-- [ ] One finger pull up (common sense)
-- [x] Handstand push up (common sense)
-- [x] [Front roll](https://youtu.be/ysWBWnH6kaY?t=205)
-- [x] [180 spin](https://youtu.be/GrPRQzN4qsA?t=15)
+- [ ]    [360 spin](https://www.youtube.com/watch?v=mscEyaTj_zE)
+- [ ]    [Shrimps](https://www.youtube.com/watch?v=IjMaWDCGVeQ)
+- [ ]    [Muscle up](https://www.google.com/imgres?imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod.s3.amazonaws.com%2Fimages%2Fmusclemain-1548177476.jpg&imgrefurl=https%3A%2F%2Fwww.menshealth.com%2Fuk%2Fbuilding-muscle%2Fa25991719%2Fhow-to-do-first-muscle-up-an-experts-guide%2F&tbnid=692648AC09lD5M&vet=12ahUKEwjr_4D8lNT4AhVIBM0KHdcKAv8QMygCegUIARDiAQ..i&docid=H0mpCOogzjyTXM&w=2000&h=1000&q=Muscle-up&ved=2ahUKEwjr_4D8lNT4AhVIBM0KHdcKAv8QMygCegUIARDiAQ)
+- [ ]    [Dynamic muscle up](https://youtu.be/6eZQxUHefhI?t=215)
+- [ ]    [Knee gainer](https://www.youtube.com/watch?v=OUEI6KZtB6I)
+- [ ]    One arm push up (common sense)
+- [ ]    [Walking pull up](https://www.youtube.com/watch?v=bLj__geDgs8)
+- [ ]    [Dragon flag](https://bodybuilding-wizard.com/the-dragon-flag-exercise-guide/)
+- [ ]    Two finger pull up (common sense)
+- [ ]    One finger pull up (common sense)
+- [ ]    Handstand push up (common sense)
+- [ ]    [Front roll](https://youtu.be/ysWBWnH6kaY?t=205)
+- [ ]    [180 spin](https://youtu.be/GrPRQzN4qsA?t=15)
 
 ## Programming (2017 - present): <a name="Programming"></a>
 
