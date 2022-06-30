@@ -2,16 +2,22 @@
 
 Here are some of the projects/hobbies I've been working on over the years:
 
-## Robotics (Late 2021 - present):
+[Robotics (Late 2021 - present)](https://jkohhokj.github.io/projects#Robotics\ \(Late 2021\ -\ present\):)
+
+[OSU!game (Late 2021 - present)](https://jkohhokj.github.io/projects#OSU!game \(Late 2021 - present\):)
+
+<details><summary><h2> Robotics (Late 2021 - present):</h2></summary>
 
 > Robotics is an interdisciplinary branch of computer science and engineering. Robotics involves design, construction, operation, and use of robots. The goal of robotics is to design machines that can help and assist humans.
 
-I initially had zero interest in participating in robotics until a friend dragged me into one of the meetings with the promise of food to be the lead programmer as I had a strong background in software. While I wasn't "hooked" I *was* somewhat intrigued in building cool stuff so I agreed to keep coming back to meetings. I had a very naive outlook on how coding could affect the very limited API of the VEX robot (especially in the 2021-2022 season of Tipping Point) and as I gradually explored this niche, I discovered the entire field of industry control systems. With my interest peaking through competition, I spent hundreds of hours over the course of my first season with my team and had a great time, making our way to the international stage at VEX Worlds in Dallas, TX. 
+I initially had zero interest in participating in robotics until a friend dragged me into one of the meetings with the promise of food to be the lead programmer as I had a strong background in software. While I wasn't "hooked" I *was* somewhat intrigued in building cool stuff so I agreed to keep coming back to meetings. I had a very naive outlook on how coding could affect the very limited API of the VEX robot (especially in the 2021-2022 season of Tipping Point) but as I gradually explored this niche, I discovered more naunce in this project, eventually stumbling across the entire field of industrial control systems. With my interest peaking through competition, I spent hundreds of hours over the course of my first season with my team, making our way to the international stage at VEX Worlds in Dallas, TX. Overall, this was amazing experience and had a great ime with my friends
 
 As the season concluded, I created the [DeBakey VRC website](https://debakeyvrc.github.io/) to document our progress to attract incoming freshmen to our club (and convince admins to adequately fund us lol). I learned a lot of industrial control systems, C++, mechnical design, eletronics, and engineering throughout this journey and hope to bring back a trophy in Worlds next season. :p
 
 And while the 2021-2022 season had limited programmer involvement, it looks like this season's game, [Spin Up](https://www.youtube.com/watch?v=wIZgvVDZc2Y), will definitely allow me to go all out on the programming which is exciting (and pressuring :confounded: ).
 
+</details>
+ 
 ## OSU!game (Late 2021 - present):
 
 > osu! is a free-to-play rhythm game
@@ -73,9 +79,9 @@ Maybe I'll put some pics and do some sort of progress update sooner or later.
 
 I began my coding career with the stereotypical idea of trying to program games, first using C#, later transitioning to Python because of its more extensive framework. The [games repo](https://github.com/jkohhokj/Games) on my Github has a few of the archived games I've programmed ranging from Hangman to Tetris to Snake. There's also this one project that I technically haven't finished which is a physics engine that currently only simulates basic linear collisions with mass and momentum.  
 
-Through this journey, I learned about game design and up to the intermediate level of coding paradigms, ultimately the main focus of my career pursuits nowadays. From around 2019-2020 I also began touching on other subjects in software engineering such as machine learning/AI in my [MachineLearning repo](https://github.com/jkohhokj/Games/tree/master/MachineLearning-LanguageProcessing), Python's REST APIs in the [PCPP repo](https://github.com/jkohhokj/Games/tree/master/PCPP301), and worked with the other major general programming languages like Java, JavaScript, and C.
+Through this journey, I learned about game design and up to the intermediate level of coding paradigms, ultimately the main focus of my career pursuits nowadays. I cannot emphasize enough how much learning programming at this age has provided me with the foundation that I apply for basically everything I'm interested in now. From around 2019-2020 I also began touching on other subjects in software engineering such as machine learning/AI in my [MachineLearning repo](https://github.com/jkohhokj/Games/tree/master/MachineLearning-LanguageProcessing), Python's REST APIs in the [PCPP repo](https://github.com/jkohhokj/Games/tree/master/PCPP301), and worked with the other major general programming languages like Java, JavaScript, and C. Maybe in the future I'll learn platform specific languages like Objective-C, Swift, or TypeScript but for now, I have most of the knowledge I'll need for my endeavors.
 
-### Honorable Mentions:
+## Honorable Mentions:
 
 I've begun to work/study on these but haven't had any "results" yet so these are only honorable mentions.
 
