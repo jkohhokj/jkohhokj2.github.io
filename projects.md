@@ -2,29 +2,44 @@
 
 Here are some of the projects/hobbies I've been working on over the years:
 
-[Robotics (Late 2021 - present)](https://jkohhokj.github.io/projects#Robotics\ \(Late 2021\ -\ present\):)
+[Robotics (Late 2021 - present)](#Robotics)
 
-[OSU!game (Late 2021 - present)](https://jkohhokj.github.io/projects#OSU!game \(Late 2021 - present\):)
+[OSU!game (Late 2021 - present)](#OSU!)
 
-<details><summary><h2> Robotics (Late 2021 - present):</h2></summary>
+[Maps of Meaning/Personality (Early 2021)](#Psych)
+
+[CTFs (Late 2020 - present)](#CTFs)
+
+[Calisthenics (2018 - present)](#Calisthenics)
+
+[Programming (2017 - present)](#Programming)
+
+[Honorable Mentions:](#Honorables)
+
+## Robotics (Late 2021 - present): <a name="Robotics"></a>
 
 > Robotics is an interdisciplinary branch of computer science and engineering. Robotics involves design, construction, operation, and use of robots. The goal of robotics is to design machines that can help and assist humans.
 
-I initially had zero interest in participating in robotics until a friend dragged me into one of the meetings with the promise of food to be the lead programmer as I had a strong background in software. While I wasn't "hooked" I *was* somewhat intrigued in building cool stuff so I agreed to keep coming back to meetings. I had a very naive outlook on how coding could affect the very limited API of the VEX robot (especially in the 2021-2022 season of Tipping Point) but as I gradually explored this niche, I discovered more naunce in this project, eventually stumbling across the entire field of industrial control systems. With my interest peaking through competition, I spent hundreds of hours over the course of my first season with my team, making our way to the international stage at VEX Worlds in Dallas, TX. Overall, this was amazing experience and had a great ime with my friends
+I initially had zero interest in participating in robotics until a friend dragged me into one of the meetings with the promise of food to be the lead programmer as I had a strong background in software. While I wasn't "hooked" I *was* somewhat intrigued in building cool stuff so I agreed to keep coming back to meetings. I had a very naive outlook on how coding could affect the very limited API of the VEX robot (especially in the 2021-2022 season of Tipping Point) but as I gradually explored this niche, I discovered more naunce in this project, eventually stumbling across the entire field of industrial control systems. With my interest peaking through competition, I spent hundreds of hours over the course of my first season with my team, making our way to the international stage at VEX Worlds in Dallas, TX. Overall, this was amazing experience and had a great time with my friends which can basically be summarized with one graph.
 
-As the season concluded, I created the [DeBakey VRC website](https://debakeyvrc.github.io/) to document our progress to attract incoming freshmen to our club (and convince admins to adequately fund us lol). I learned a lot of industrial control systems, C++, mechnical design, eletronics, and engineering throughout this journey and hope to bring back a trophy in Worlds next season. :p
+![Robotics.mp4](/assets/robotics3.png)
+
+And the reason why Justin's expectations skyrocketed in the first competition was because of this (we're Vipers) even though that was completely because of luck 
+T-T.
+
+![Robotics.mp5](/assets/robotics4.png)
+
+As the season concluded, I created the [DeBakey VRC website](https://debakeyvrc.github.io/) to document our progress to attract incoming freshmen to our club (and convince admins to adequately fund us lol). I learned a lot about industrial control systems, C++ STL, mechnical design, electronics, and mechanical engineering throughout this journey and hope to bring back a trophy in Worlds next season. :p
 
 And while the 2021-2022 season had limited programmer involvement, it looks like this season's game, [Spin Up](https://www.youtube.com/watch?v=wIZgvVDZc2Y), will definitely allow me to go all out on the programming which is exciting (and pressuring :confounded: ).
 
-</details>
- 
-## OSU!game (Late 2021 - present):
+## OSU!game (Late 2021 - present): <a name="OSU!"></a>
 
 > osu! is a free-to-play rhythm game
 
 I've been playing OSU! since September 2021 and my profile can be found [here](https://osu.ppy.sh/users/25738797). This isn't really an accomplishment I just felt like putting it here. :D
 
-## Maps of Meaning/Personality (Early 2021):
+## Maps of Meaning/Personality (Early 2021): <a name="Psych"></a>
 
 > Maps of Meaning lays bare the grammar of mythology, and describes the relevance of that grammar for interpretation of narrative and religion, comprehension of ideological identification, and understanding of the role that individual choice plays in the maintenance, transformation and destiny of social systems.
 
@@ -49,7 +64,7 @@ Essential themes:
 
 I've always found it difficult to integrate this aspect of my life when representing myself like writing my resume and simply answering the question "What have you done/accomplished?" because the philosophical and psychological knowledge can't be as directly expressed as some of my other interests and tend to be overshadowed by the more tangible, immediately recognizable achievements.
 
-## CTFs (Late 2020 - present):
+## CTFs (Late 2020 - present): <a name="CTFs"></a>
 
 > Capture the Flag (CTF) is a special kind of information security competitions. CTF games often touch on many other aspects of information security: cryptography, digital forensics, reverse engineering, binary exploitation, and website security.
 
@@ -65,7 +80,7 @@ While I still play CTFs occasionally, this isn't my focus in life anymore and th
 
 A couple more honorable mentions that I did during this tedious, stressful CTF journey was partnering with other online cybersecurity communities, founding idekJT, a junior team for funneling top talent into the main team lol, writing a basic [guide](https://github.com/idekctf/idekctf.github.io/blob/main/Resources/BabyRev.md) to CTF reverse engineering, and seeking out sponsorships for idekCTF 2021 (as well as writing my own challenges of course).
 
-## Calisthenics (2018 - present):
+## Calisthenics (2018 - present): <a name="Calisthenics"></a>
 
 > Calisthenics is a form of strength training consisting of a variety of movements that exercise large muscle groups. These exercises are often performed rhythmically and with minimal equipment, as bodyweight exercises.
 
@@ -73,7 +88,7 @@ I have been interested in calisthenics, and just staying athletic in general, ev
 
 Maybe I'll put some pics and do some sort of progress update sooner or later.
 
-## Programming (2017 - present):
+## Programming (2017 - present): <a name="Programming"></a>
 
 > Programming is the process of creating a set of instructions that tell a computer how to perform a task.
 
@@ -81,7 +96,7 @@ I began my coding career with the stereotypical idea of trying to program games,
 
 Through this journey, I learned about game design and up to the intermediate level of coding paradigms, ultimately the main focus of my career pursuits nowadays. I cannot emphasize enough how much learning programming at this age has provided me with the foundation that I apply for basically everything I'm interested in now. From around 2019-2020 I also began touching on other subjects in software engineering such as machine learning/AI in my [MachineLearning repo](https://github.com/jkohhokj/Games/tree/master/MachineLearning-LanguageProcessing), Python's REST APIs in the [PCPP repo](https://github.com/jkohhokj/Games/tree/master/PCPP301), and worked with the other major general programming languages like Java, JavaScript, and C. Maybe in the future I'll learn platform specific languages like Objective-C, Swift, or TypeScript but for now, I have most of the knowledge I'll need for my endeavors.
 
-## Honorable Mentions:
+## Honorable Mentions: <a name="Honorables"></a>
 
 I've begun to work/study on these but haven't had any "results" yet so these are only honorable mentions.
 
