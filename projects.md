@@ -31,7 +31,7 @@ T-T.
 
 As the season concluded, I created the [DeBakey VRC website](https://debakeyvrc.github.io/) to document our progress to attract incoming freshmen to our club (and convince admins to adequately fund us lol). I learned a lot about industrial control systems, C++ STL, mechnical design, electronics, and mechanical engineering throughout this journey and hope to bring back a trophy in Worlds next season. :p
 
-And while the 2021-2022 season had limited programmer involvement, it looks like this season's game, [Spin Up](https://www.youtube.com/watch?v=wIZgvVDZc2Y), will definitely allow me to go all out on the programming which is exciting (and pressuring :confounded: ).
+And while the 2021-2022 season had limited programmer involvement, it looks like this season's game, [Spin Up](https://www.youtube.com/watch?v=wIZgvVDZc2Y), will definitely allow me to go all out on the programming which is exciting (and pressuring 😖).
 
 ## OSU!game (Late 2021 - present): <a name="OSU!"></a>
 
