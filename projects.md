@@ -97,8 +97,8 @@ Static Skills:
 - [ ]    [One arm deadhang](https://www.healthline.com/health/fitness-exercise/dead-hang)
 - [ ]    [Elbow Bar](https://www.calisthenics-101.co.uk/skin-the-cat-calisthenics-exercise-tutorial)
 - [ ]    [V-sit](https://breakingmuscle.com/master-the-v-sit-to-develop-athleticism-and-injury-proof-shoulders/)
-- [ ]    [Skin the cat](https://www.calisthenics-101.co.uk/skin-the-cat-calisthenics-exercise-tutorial)
-- [ ]    [L-sit](https://barbend.com/l-sit/)
+- [x]    [Skin the cat](https://www.calisthenics-101.co.uk/skin-the-cat-calisthenics-exercise-tutorial)
+- [x]    [L-sit](https://barbend.com/l-sit/)
 
 Dynamic Skills:
 
@@ -112,9 +112,9 @@ Dynamic Skills:
 - [ ]    [Dragon flag](https://bodybuilding-wizard.com/the-dragon-flag-exercise-guide/)
 - [ ]    Two finger pull up (common sense)
 - [ ]    One finger pull up (common sense)
-- [ ]    Handstand push up (common sense)
-- [ ]    [Front roll](https://youtu.be/ysWBWnH6kaY?t=205)
-- [ ]    [180 spin](https://youtu.be/GrPRQzN4qsA?t=15)
+- [x]    Handstand push up (common sense)
+- [x]    [Front roll](https://youtu.be/ysWBWnH6kaY?t=205)
+- [x]    [180 spin](https://youtu.be/GrPRQzN4qsA?t=15)
 
 ## Programming (2017 - present): <a name="Programming"></a>
 
