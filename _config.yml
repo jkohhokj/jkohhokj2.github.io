@@ -1,2 +1,3 @@
 theme: jekyll-theme-architect
 title: Jayden Koh's Website
+remote_theme: "dracula/gh-pages"
