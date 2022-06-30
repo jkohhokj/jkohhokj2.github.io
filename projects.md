@@ -88,6 +88,34 @@ I have been interested in calisthenics, and just staying athletic in general, ev
 
 Maybe I'll put some pics and do some sort of progress update sooner or later.
 
+Static Skills:
+
+- [ ] [Front lever](https://workout-temple.com/en/calisthenics-articles/front-lever-biomechanics)
+- [ ] [Back lever]
+- [ ] [Planche]
+- [ ] [Human flag]
+- [ ] [One arm deadhang]
+- [ ] [Elbow Bar]
+- [x] [Skin the cat]
+- [x] [L-sit]
+- [x] [V-sit]
+
+Dynamic Skills:
+
+- [ ] [360 spin]
+- [ ] [Shrimps]
+- [ ] [Muscle up]
+- [ ] [Dynamic muscle up]
+- [ ] [Knee gainer]
+- [ ] [One arm push up]
+- [ ] [Walking pull up]
+- [ ] [Dragon flag]
+- [ ] [Two finger pull up]
+- [ ] [One finger pull up]
+- [x] [Handstand push up]
+- [x] [Front roll]
+- [x] [180 spin]
+
 ## Programming (2017 - present): <a name="Programming"></a>
 
 > Programming is the process of creating a set of instructions that tell a computer how to perform a task.
