@@ -1,5 +1,7 @@
 # I'm Jayden Koh. This is my website.
 
-[Projects](/projects)
+<ins>[Projects](/projects)</ins>
 
-[About Me](/about)
+<ins>[Events](/events)</ins>
+
+<ins>[About Me](/about)</ins>
