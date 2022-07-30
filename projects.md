@@ -6,9 +6,15 @@ Here are some of the projects/hobbies I've been working on over the years:
 
 [OSU!game (Late 2021 - present)](#OSU!)
 
+[Embedded Hacking and Reverse Engineering (Early 2021 - present)](#Embedded)
+
 [Maps of Meaning/Personality (Early 2021)](#Psych)
 
 [CTFs (Late 2020 - present)](#CTFs)
+
+[Language Acquisition (Early 2020 - present)](#Language)
+
+[Running (Late 2019 - present)](#Running)
 
 [Calisthenics (2018 - present)](#Calisthenics)
 
@@ -38,6 +44,14 @@ And while the 2021-2022 season had limited programmer involvement, it looks like
 > osu! is a free-to-play rhythm game
 
 I've been playing OSU! since September 2021 and my profile can be found [here](https://osu.ppy.sh/users/25738797). This isn't really an accomplishment I just felt like putting it here. :D
+
+## Embedded Hacking and Reverse Engineering (Early 2021 - present): <a name="Embedded"></a>
+
+> Embedded systems security is a cybersecurity field focused on preventing malicious access to and use of embedded systems.
+
+> The process of taking a piece of software or hardware and analyzing its functions and information flow so that its functionality and behavior can be understood. Malware is commonly reverse-engineered in cyber defense.
+
+
 
 ## Maps of Meaning/Personality (Early 2021): <a name="Psych"></a>
 
@@ -79,6 +93,14 @@ While I still play CTFs occasionally, this isn't my focus in life anymore and th
 [idekCTF 2021 All challenges](https://github.com/idekctf/idekctf2021)
 
 A couple more honorable mentions that I did during this tedious, stressful CTF journey was partnering with other online cybersecurity communities, founding idekJT, a junior team for funneling top talent into the main team lol, writing a basic [guide](https://github.com/idekctf/idekctf.github.io/blob/main/Resources/BabyRev.md) to CTF reverse engineering, and seeking out sponsorships for idekCTF 2021 (as well as writing my own challenges of course).
+
+## Language Acquisition (Early 2020 - present): <a name="Language"></a>
+
+## Running (Late 2019 - present): <a name="Running"></a>
+
+> Jogging is a form of trotting or running at a slow or leisurely pace. The main intention is to increase physical fitness with less stress on the body than from faster running but more than walking, or to maintain a steady speed for longer periods of time.
+
+Through the later years of middle school into high school I've used running as a way to stay physically active. My main goal during this period of time was to increase my pace over the 1 mile distance, however without properly training advice or coaching my progress did not match up with my expections. During this time, my weekly mileage was somewhere around 10 miles. But over time, my interest and drive to run faster gradually dwindled, eventually having lackluster motivation to even put on my shoes.
 
 ## Calisthenics (2018 - present): <a name="Calisthenics"></a>
 
@@ -133,5 +155,3 @@ I've begun to work/study on these but haven't had any "results" yet so these are
 [IOAA](https://www.ioaastrophysics.org/) (International Olympiad on Astronomy and Astrophysics) 
 
 [USACO](http://www.usaco.org/) (USA Coding Olympiad) would be a great way for me to apply my software engineering-esque skills with algorithms and data structures.
-
-Running is something I've done on and off throughout my life as a way to stay active, but recently I wanted to take this training a little more seriously, aiming for the Houston Marathon in January.
