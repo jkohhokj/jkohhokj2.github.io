@@ -108,18 +108,36 @@ While I still play CTFs occasionally, this isn't my focus in life anymore and th
 
 A couple more honorable mentions that I did during this tedious, stressful CTF journey was partnering with other online cybersecurity communities, founding idekJT, a junior team for funneling top talent into the main team lol, writing a basic [guide](https://github.com/idekctf/idekctf.github.io/blob/main/Resources/BabyRev.md) to CTF reverse engineering, and seeking out sponsorships for idekCTF 2021 (as well as writing my own challenges of course).
 
-## Language Acquisition (Early 2020 - present): <a name="Language"></a>
+## Language Acquisition (Late 2019 - present): <a name="Language"></a>
 
 > Language Learning refers to learning about a language, its sound system, its structure. It is largely an intellectual exercise. Language acquisition means somehow absorbing a target language's sound system and structure, ideally without ever thinking explicitly about the language's actual structure.
 
-![pic](/assets/lingodeer.png)
-Some random picture I found from the app I used to study Japanese which is now unfortunately the only statistic I have left from the app.
+I've always been intrigued with how people communicate with each other from the subtle social cues to the heartfelt abstractions of emotion. I wanted to learn the nuances of expression and how different cultures viewed their geography and society. With a new way of intepreting reality, comes a new identity, a new duality of cultures. Language acquisition helped me reflect on my own thoughts and how I presented myself to other people. Growing up in a bilingual household, I've forged my identity on being able to understand 2 languages, but every time I go back to Singapore, I'm brutally reminded of how hopeless my Chinese is T^T. Because of this, I began using Anki to try and advance my language comprehension studying mainly from the HSK Level 4 and 5 vocab words.
+
+Around the beginning of high school, I started watching a lot of anime (my favorite is Seishun Buta Yarou) and along with this came an influx of a new culture. I was motivated to learn Japanese mostly because I wanted to understand the raw culture being expressed from private and public formalities to interpretations of character development, not to mention Japanese sounds nice. But what truly separates language learning from langauge acquisition is the other aspects of culture. As I tried to understand this other world, I explored other aspects of Japanese culture from music, writings, religion, and of course my favorite, food. I mainly used LingoDeer to learn new words and Anki for reinforcement memorization, the total hours of my Japanese learning must be well over 200, but with no record of it, I'm not entirely sure. I studied about halfway through JLPT n4 for reference on my comprehension. I also briefly studied Russian and Korean however I never really got further than simply learning the alphabet.
+
+<img src="/assets/lingodeer.png" alt="lingodeer" width="300"/>
+Some random picture I found from the app I used to study Japanese which is now unfortunately the only statistic I have left from the app. I'm confident that the total number of hours exceeded well over 100 when I stopped.
+
+![pic](/assets/anki.png)
+Here is the overview of the number of reviews on Anki I have for Japanese and Chinese, mostly during the summer when I had more free time; during schooltime I preferred LingoDeer because it was mobile.
+
 
 ## Running (Late 2019 - present): <a name="Running"></a>
 
 > Jogging is a form of trotting or running at a slow or leisurely pace. The main intention is to increase physical fitness with less stress on the body than from faster running but more than walking, or to maintain a steady speed for longer periods of time.
 
-Through the later years of middle school into high school I've used running as a way to stay physically active. My main goal during this period of time was to increase my pace over the 1 mile distance, however without properly training advice or coaching my progress did not match up with my expections. During this time, my weekly mileage was somewhere around 10 miles. But over time, my interest and drive to run faster gradually dwindled, eventually having lackluster motivation to even put on my shoes.
+Through the later years of middle school into high school I've used running as a way to stay physically active. My main goal during this period of time was to increase my pace over the 1 mile distance, however without properly training advice or coaching my progress did not match up with my expections. During this time, my weekly mileage was somewhere around 10 miles. But over time, my interest and drive to run faster gradually dwindled, eventually having lackluster motivation to even put on my shoes. During the summer of 2022, I found rejuvenated motivated in running for the Houston Cheveron Marathon in 2023. So naturally, I began training for this epic race by increasing mileage. I also realized I had to work on my breathwork by switching from naturally mouth breathing to nose breathing.
+
+Through running, I found a way to temporarily escape the drudgery of life by focusing on nothing but making it to the next mile. I felt this helping me release my anxiety by giving me an avenue to stress my body and letting my mind relax. 
+
+My early years of running:
+
+<img src="/assets/run2.png" alt="old" width="300"/>
+
+which transitioned into something more like this:
+
+![new](/assets/run.png)
 
 ## Calisthenics (2018 - present): <a name="Calisthenics"></a>
 
