@@ -3,6 +3,8 @@
 **Difficulty:** Medium
 **Author:** BrokenAppendix
 
+**[Click me to see full file](https://github.com/jkohhokj/jkohhokj.github.io/tree/main/assets/Rolling%20On%20My%20Own)**
+
 ## Description
 
 Remember rule 10
