@@ -10,7 +10,7 @@ Here are some of the projects/hobbies I've been working on over the years:
 
 [Maps of Meaning/Personality (Early 2021)](#Psych)
 
-[CTFs (Late 2020 - present)](#CTFs)
+[CTFs/Hacking (Late 2020 - present)](#CTFs)
 
 [Language Acquisition (Early 2020 - present)](#Language)
 
@@ -53,6 +53,16 @@ I've been playing OSU! since September 2021 and my profile can be found [here](h
 
 
 
+Most [CTFs](#CTFs) are structured into 5 distinct categories, web, pwn, crypto, forensics/misc, and reversing, of which I chose reverse engineering to be my specialty. Because of my informal learning style I just learned from whatever resources I could find, even though they were probably not targeted towards my direct interest, they still did provide suplemental value. Most of the theoretical reversing I've learned comes from [Reverse_Engineering-Wiley(2005)](https://www.wiley.com/en-us/Reversing%3A+Secrets+of+Reverse+Engineering+-p-9781118079768) which goes over Assembly, computer architecture, and a variety of reversing topics.
+
+In addition to my self-learning, I also participated in the Embedded Security and Hardware Hacking course from MIT's Lincoln Lab at [BWSI](/events#mit-beaverworks-2022). During this course, I learned more about the finer details of cryptographic vulnerabilities, low level computer programming, and a more formal approach to the embedded design process. The final design project of our class being an exciting A/D (attack and defense) style CTF competition where teams of 4 students wrote bootloader and utility programs that could remotely update an embedded system while other teams tried to exploit vulnerabilities in their code and hack their systems.
+
+Here are examples of some of the reverse engineering CTF challenges I've written: [RollingOnMyOwn](/assets/Rolling On My Own/) and [SlowMaffs](/assets/SlowMaffs - Rev) for [idekCTF 2021](/events.md#idekctf-2021-2021) and [Digital Overdose Autumn 2021](https://ctftime.org/event/1459), respectively.
+
+Here are some of the writeups for challenges I've solved through my CTF career: [some basic static analysis chall](https://github.com/jkohhokj/jkohhokj.github.io/blob/main/assets/writeups/loading.md), [insecure AES implementation chall](https://github.com/jkohhokj/jkohhokj.github.io/blob/main/assets/writeups/lupus.md), [keygen chall](https://github.com/jkohhokj/jkohhokj.github.io/blob/main/assets/writeups/sanity.md), [low level algo chall](https://github.com/jkohhokj/jkohhokj.github.io/blob/main/assets/writeups/sub.md), and a [tutorial chall](https://github.com/jkohhokj/jkohhokj.github.io/blob/main/assets/writeups/Walkthrough%20of%20Intro%20to%20Ghidra.md).
+
+I even wrote a little [guide](/assets/Rev (guidelines).md) on getting started on CTF reversing :p
+
 ## Maps of Meaning/Personality (Early 2021): <a name="Psych"></a>
 
 > Maps of Meaning lays bare the grammar of mythology, and describes the relevance of that grammar for interpretation of narrative and religion, comprehension of ideological identification, and understanding of the role that individual choice plays in the maintenance, transformation and destiny of social systems.
@@ -78,11 +88,15 @@ Essential themes:
 
 I've always found it difficult to integrate this aspect of my life when representing myself like writing my resume and simply answering the question "What have you done/accomplished?" because the philosophical and psychological knowledge can't be as directly expressed as some of my other interests and tend to be overshadowed by the more tangible, immediately recognizable achievements.
 
-## CTFs (Late 2020 - present): <a name="CTFs"></a>
+## CTFs/Hacking (Late 2020 - present): <a name="CTFs"></a>
+
+> Hacking refers to activities that seek to compromise digital devices, such as computers, smartphones, tablets, and even entire networks.
 
 > Capture the Flag (CTF) is a special kind of information security competitions. CTF games often touch on many other aspects of information security: cryptography, digital forensics, reverse engineering, binary exploitation, and website security.
 
-For the layman, CTFs are basically what you think of when the phrase "Facebook underground hacking tournament" comes up, though, like most things in life, less romanticized. In March of 2021 I played my first ever CTF, picoCTF 2021 with a group of friends I found online. I had done some initial research on informations security topics like Metasploit and the CEH certificate, but this competition, targetted at high schoolers allowed me to practically apply my perceived skills (I say perceived because I didn't do well lol). After that I decided to take this whole hacking thing more seriously, co-founding the CTF idek (originally "idk", but that was taken on CTFtime, the leaderboards for all CTFs). Our team played almost every weekend, eventually climbing the ranks and inviting more experienced players to compete on our team, ending the 2021 season at 4th in the US and 31st in the world. In addition to competiting, we also hosted our very first CTF competition [idekCTF 2021](https://ctftime.org/event/1512) with overwhelmingly positive results. The next year, we peaked at 1st globally, though shortly after I left because I didn't feel like I could contribute significantly enough to justify my stay. Personally, I learned a lot of reverse engineering skills (my specialty in competition) and met a lot of amazing people but probably more importantly, how to coordinate and organize events on a global scale.
+My first piece of exposure to the hacking community was through a [14 hour video](https://www.youtube.com/watch?v=3Kq1MIfTWCE) by TheCyberMentor about [penetration testing](https://www.coresecurity.com/penetration-testing#:~:text=A%20penetration%20test%2C%20or%20pen,or%20risky%20end%2Duser%20behavior.). Being bored in quarantine and through the struggles of online school, this video immediately captivated my attention and I was completely absorbed with the idea of being able to see a world of vulnerabilities in a world where people naturally assumed absolute security. The fundamental understanding of how we interacted with our digital reality opened up an undiscovered realm of possibilities, a revelation that fascinated me. I scrambled to learn as much as I could about this new culture, pouring hundreds of hours into listening to talks, watching videos, reading books, and consuming as much information from whatever else I could get my hands on. I also took some notes on the resources I devoured, some of which I actually managed to salvage in [The Web Application Hackers Handbook](/assets/WebAppNotes.md) and [Penetration Testing - A hands-on introduction to Hacking](PenetrationTestingNotes.md). I was interested in taking courses on the major hacking certificates like the OSCP and CEH, even seriously considering just not bothering with university and just going into industry with one of these certificates at one point. Eventually, I found the world of CTFs and competition...
+
+For the layman, CTFs are basically what you think of when the phrase "Facebook underground hacking tournament" comes up, though, like most things in life, less romanticized. In March of 2021 I played my first ever CTF, picoCTF 2021 with a group of friends I found online. With my intial delve into cybersecurity, I had come in with the expectations of being able to compete with the best, but this competition, targeted at high schoolers humbled me. After that I decided to take this whole CTF thing more seriously, co-founding the CTF team idek (originally "idk", but that was taken on CTFtime, the leaderboards for all CTFs). Our team played almost every weekend, eventually climbing the ranks and inviting more experienced players to compete on our team, ending the 2021 season at 4th in the US and 31st in the world. In addition to competiting, we also hosted our very first CTF competition [idekCTF 2021](https://ctftime.org/event/1512) with overwhelmingly positive results. The next year, we peaked at 1st globally, though shortly after I left because I didn't feel like I could contribute significantly enough to justify my stay. Personally, I learned a lot of reverse engineering skills (my specialty in competition) and met a lot of amazing people but probably more importantly, how to coordinate and organize events on an international scale.
 
 While I still play CTFs occasionally, this isn't my focus in life anymore and though sometimes I wonder what life would have become if I stayed on the team and perhaps let go of my ego in trying to learn/imposter syndrome, I've accepted my decision and am purusing other venues in life. Though recently I played under the team "Caliente" in picoCTF 2022, the largest high school CTF competition in the world, and won 9th place, receiving some cool swag from the organizers. :D
 
@@ -95,6 +109,11 @@ While I still play CTFs occasionally, this isn't my focus in life anymore and th
 A couple more honorable mentions that I did during this tedious, stressful CTF journey was partnering with other online cybersecurity communities, founding idekJT, a junior team for funneling top talent into the main team lol, writing a basic [guide](https://github.com/idekctf/idekctf.github.io/blob/main/Resources/BabyRev.md) to CTF reverse engineering, and seeking out sponsorships for idekCTF 2021 (as well as writing my own challenges of course).
 
 ## Language Acquisition (Early 2020 - present): <a name="Language"></a>
+
+> Language Learning refers to learning about a language, its sound system, its structure. It is largely an intellectual exercise. Language acquisition means somehow absorbing a target language's sound system and structure, ideally without ever thinking explicitly about the language's actual structure.
+
+![pic](/assets/lingodeer.png)
+Some random picture I found from the app I used to study Japanese which is now unfortunately the only statistic I have left from the app.
 
 ## Running (Late 2019 - present): <a name="Running"></a>
 
