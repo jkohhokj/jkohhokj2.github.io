@@ -1,0 +1,261 @@
+Some meta concepts you have to understand:
+ - Brainfuck is an esolang that only has 8 chars which you can find here https://en.wikipedia.org/wiki/Brainfuck#Commands
+ - And the algorithms I used which was linked as a hint for the challenge: https://esolangs.org/wiki/Brainfuck_algorithms
+ - The checking concept was split into "blocks" of 3 or 4 chars to prevent people from bruteforcing chars (I know you've tried that ;))
+ - The clue from the title it surrounded high school level math specifically systems of equations and graphing parabolas
+ - Levels were listed from progressive difficulty and switched concepts each time
+ - Spacing was done intentionally to help with comprehension (I didn't have to do it this way because Brainfuck ignores whitespace), newlines are for each individual char
+ - There's an "antidebug" trick I threw in there to make the program stall if you just started arbitrarily deleting stuff (I think this is where most people got stuck/confused)
+ - There was wrapping in this program, however, I programmed it to work on 8-bit so any cell size would have worked
+ - Concepts are pretty repetitive so I'll just show examples for the first 2 in each level and you should be able to figure out the rest :D
+ - You should google how the stack works if you don't already know because this won't make sense to you
+
+This is a really long read so go grab some popcorn and get comfy :D :popcorn: and since this is progressive, even if you have solved the first 2 levels, you should still read them because the next ones include concepts you should have mastered from before.
+
+Note: line numbers are based on the SlowMaffs.bf file released during the competition, NOT the Admin version
+Ok, time for the writeup:
+
+Level 0:
+Sets "Nope" and "Yay" in the first 7 cells in memory (this was supposed to show you that this was a Brainfuck program and its basic concept)
+
+Level 1 (lines 4-34):
+
+Concepts:
+
+ - Multiplication and Addition
+```
+> ++ 
+>,<[>>+++[-<+>]<<-]  
+```
+This piece of code simply adds 2*3 to the input char from `,`
+
+```
+>
+>++[->++++<] >+++  
+```
+This then applies the same concept of 2*4+3 but just adds it to an empty cell without any input (there's no `,` after all)
+
+Ex (lines 6-9):
+```
+> +++++++ 
+>,<[>>+++++[-<+>]<<-]        
+>
+>++++++++++[->++++++++++<] >+++   
+```
+Adds 35 (7*5) to the first char and puts 103 (10*10+3) in another cell
+
+Ex (lines 11-14):
+```
+> +++++++++ 
+>,<[>>+++++[-<+>]<<-]        
+>+
+>++++++++++++[->++++++++++<] >+++++     
+```
+Adds 46 (5*9+1) to the next char and puts 125 (12*10+5) in another cell
+
+Dropping down to line 26 the patterns stops what could this be :thinking:
+
+```
+<<<<<<<<<<<<<< [->>-<<]+>>[<<->>[-]]<<   
+-[<<<<<<<<.>.>.>.>>>>[>+]]
+```
+This concept can be found at https://esolangs.org/wiki/Brainfuck_algorithms#x_.3D_x_.3D.3D_y
+If it is equal we clear the cell and move on, if not print out "Nope" at the bottom of our memory
+The number of `<` depends on where in memory our cell is but besides that, this stays consistent throughout the entire program
+Lastly,
+```
+[>+]
+```
+infinitely moves the pointer to the right (unless the cell is at -1 which should never be the case) which is the antidebug part :sunglasses:
+
+Alegebra (x is just the ascii value of the char):
+x+35=103
+x+46=125
+x+39=162
+x+78=199
+
+Level 2 (lines 36-79):
+The beginning of each level is the same as before (Multiplication and Addition stuff) but now there's a new thing :eyes:
+Concepts:
+ - Multiplication and Addition
+ - Squaring https://esolangs.org/wiki/Brainfuck_algorithms#x_.3D_x_.2A_x
+
+The first exponential equation is here (line 42)
+```
++++[>+<-]>[-[>+<<++>-]<+>>[<+>-]<]<[>+<-]>[-[>+<<++>-]<+>>[<+>-]<]<
+```
+if you look closely, you can see it actually can be separated into 2 very similar parts
+```
++++[>+<-]>[-[>+<<++>-]<+>>[<+>-]<]
+  <[>+<-]>[-[>+<<++>-]<+>>[<+>-]<]<
+```
+this is because this is just squaring a nubmer (the number being 3) twice (yes I realize I could have just done x^4 using higher exponents but you'll see why soon)
+Everything else should be self-explanatory from here, if not go back and reread the previous level
+
+Ex (lines 45-49):
+```
+> +++++++ 
+>,<[>>++++++++++[-<+>]<<-]        
+>+++
+>>>
+>++++++++++++++[>+<-]>[-[>+<<++>-]<+>>[<+>-]<]<------   
+```
+Adds 73 (7*10+3) to the next char and puts 190 (14^2-6) in another cell
+
+Then there's the same checking function from Level 1 so just look back at that if it still doesn't make sense
+
+Algebra:
+x+33=81
+x+73=190
+x+26=121
+x+66=170
+
+
+Level 3 (lines 76-194):
+(there's a mistake here about where Level 3 actually starts but it shouldn't have been a big deal if you've made it this far already)
+This is where the graphing stuff starts :D
+Copying cell values: https://esolangs.org/wiki/Brainfuck_algorithms#x_.3D_y
+If you need a refresher on parabolas :D: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:quadratic-forms-features/a/graphing-quadratics-review
+Adding cells together: https://esolangs.org/wiki/Brainfuck_algorithms#x_.3D_x_.2B_y
+
+Concepts:
+ - Multiplication and Subtraction
+ - Squaring
+ - Copying
+ - Quadratics :S
+ - Wrapping
+ - Adding cells
+
+This immediately starts off weird with (line 76):
+```
+,>+++++++[-<------->]< [>+>+<<-]>>[<<+>>-]<[>+>+<<-]>>[<<+>>-]>>>>>
+```
+We can split this up into 3 obvious parts:
+```
+,>+++++++[-<------->]<
+[>+>+<<-]>>[<<+>>-]<
+[>+>+<<-]>>[<<+>>-]>>>>>
+```
+However, if you remember the structure of adding multiplication from Level 1 you can see that they look the same except insteead of hacing `+` in the first loop ther are `-`.
+From this you can deduce this is subtraction multiplication instead of addition multiplication.
+Then from the algorithm linked above you can see it's copying its value over to 2 other cells.
+It takes the next char and adds -49 (7*-7), then copies that value over to 2 other cells. We shall refer to these cells as "A", "B", and "C", repectively.
+
+This is the first point on the graph (lines 84-89):
+```
+>-------[>+<-]>[-[>+<<++>-]<+>>[<+>-]<]<< [>>>+<<<-]>>>[<<[<+>>+<-]>[<+>-]>-] << [-]
+>>>>>>>
+>-------<[>>>+<<<-]>>>[<<[<+>>+<-]>[<+>-]>-] << [-] 
+<<<<<<<<<
+>>>>>>>>[-<<<<<<<<+>>>>>>>>]<<<<<<<<   
+>>>>>>>>>>>>>>>>[-<<<<<<<<<<<<<<<<+>>>>>>>>>>>>>>>>]<<<<<<<<<<<<<<<<
+```
+It initializes -7 and multiplies the squared value with the value in A to make A(-7)^2
+Then it initializes -7 again and multiplies it by the value in B to make B(-7)
+Lastly, it adds the values of -7B + C and then again with A(-7)^2
+If you've been playing attention in school (or if you actually read that khan academy article) you would see the standard quadratic formula hiding in here :D
+A(-7)^2 + B(-7) + C = ???
+Let's call this value p1 for now
+
+The same concept is applied for the second point using 3 instead of -7 (lines 92-97):
+```
+>+++[>+<-]>[-[>+<<++>-]<+>>[<+>-]<]<< [>>>+<<<-]>>>[<<[<+>>+<-]>[<+>-]>-] << [-]     
+>>>>>>>
+>+++<[>>>+<<<-]>>>[<<[<+>>+<-]>[<+>-]>-] << [-] 
+<<<<<<<<<
+>>>>>>>>[-<<<<<<<<+>>>>>>>>]<<<<<<<<   
+>>>>>>>>>>>>>>>>[-<<<<<<<<<<<<<<<<+>>>>>>>>>>>>>>>>]<<<<<<<<<<<<<<<<
+```
+save this number as p2 
+and then finally the third using -2 instead of -7 (lines 100-105):
+```
+>--[>+<-]>[-[>+<<++>-]<+>>[<+>-]<]<< [>>>+<<<-]>>>[<<[<+>>+<-]>[<+>-]>-] << [-]      
+>>>>>>>
+>--<[>>>+<<<-]>>>[<<[<+>>+<-]>[<+>-]>-] << [-] 
+<<<<<<<<<
+>>>>>>>>[-<<<<<<<<+>>>>>>>>]<<<<<<<<   
+>>>>>>>>>>>>>>>>[-<<<<<<<<<<<<<<<<+>>>>>>>>>>>>>>>>]<<<<<<<<<<<<<<<<
+```
+save this number as p3
+It then initializes another value (line 107):
+```
+>>> ++++++++++[->-----<]<<<
+```
+which evaluates to -50
+It then checks that value (-50) with p3
+```
+>
+[<<<<<<<<<.>.>.>.>>>>[>+]]   
+>
+[<<<<<<<<<<.>.>.>.>>>>[>+]]  
+```
+This is the last line and it checks p1 and p2 against 0
+Coming back to the line from before what we essentially get is:
+p1: A(-7)^2 + B(-7) + C = 0
+p2: A (3)^2 + B(3)  + C = 0
+p3: A(-2)^2 + B(-2) + C = -50
+You're given 3 equations (or technically points) with 3 variables
+Looking a bit more closely, you're given 2 roots and a vertex :D
+
+Algebra:
+Graph 1 - (x+7)(x-3)=0 with the vertex at (-2,-50)
+Graph 2 - (x+3)(x-18)=0 with vertex at (3,165)
+Graph 3 - (x+12)(x-2)=0 with vertex at (-5,-245)
+
+Level 4 (196-283):
+Concepts:
+ - Systems of equations
+ - Copying cells
+ - Adding/Subtracting cells
+Taking just a quick look you can already tell that there's 2 distinct patterns, the
+```
+>>>>>
+,[>+>+<<-]>>[<<+>>-]<<<<<<    
+>>>>[<<<<+>>+>>-]<<[>>+<<-]    
+<>>>>[<<<<->>+>>-]<<[>>+<<-]  
+```
+and
+```
+<++++++++++++++[->---------------<]>+   
+[<<<<<<<<<<<.>.>.>.>>>>[>+]]   
+```
+The latter you can immediately tell is the initialization of a number and comparison, the former, not as clear...
+
+Firstly, Level 4 initializes with these 2 lines (198-199):
+```
+,[>+>+<<-]>>[<<+>>-]>>    
+,[>+>+<<-]>>[<<+>>-]<<<<<<  
+```
+which just reads the input and copies them over from the input char
+```
+>>>>[<<<<+>>+>>-]<<[>>+<<-]    
+<>>>>[<<<<->>+>>-]<<[>>+<<-]   
+```
+these lines (lines 203-204) then add the first copied char over into the next one. the second copied char is then subtracted from the original this patten is repeated throughout the entire first section resulting in the formulas:
+I'm going to use the notation c[index] which lists these onto memory:
+
+c1+c2
+c1-c2
+c2+c3
+c2-c3
+c3+c4
+c3-c4
+...
+Then at the bottom it compares each one of these values to a constant which completes the system of equations!
+Algebra:
+
+c1+c2 = 209
+c1-c2 = 15
+c2+c3 = 150
+c2-c3 = 44
+c3+c4 = 168
+c3-c4 = 194
+c4+c5 = 166
+c4-c5 = 64
+...
+
+(side note you could have started from the last value since you know it's a `}` and worked up that way :D)
+
+And that's it! You did it :D Thanks for taking the time to read through the long writeup! Free plug: idekCTF (I'm on the idek team btw :D) will be running on the 17th of December more info will posted on CTFtime in the following weeks, feel free to DM me, BrokenAppendix#7091, for more info and pop into our CTF if you wanna see similar challenges! :)
+
+flag: DO{y0u_h3lpeD_m3_pa5s3d!}
