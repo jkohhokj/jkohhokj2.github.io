@@ -98,6 +98,8 @@ For the layman, CTFs are basically what you think of when the phrase "Facebook u
 
 While I still play CTFs occasionally, this isn't my focus in life anymore and though sometimes I wonder what life would have become if I stayed on the team and perhaps let go of my ego in trying to learn/imposter syndrome, I've accepted my decision and am purusing other venues in life. Though recently I played under the team "Caliente" in picoCTF 2022, the largest high school CTF competition in the world, and won 9th place, receiving some cool swag from the organizers. :D
 
+Update: I joined idek again but play less of a leadership role than before and it's a healthier relationship now.
+
 [Former team website](https://www.idek.team/members.html)
 
 [Former CTFtime profile](https://ctftime.org/team/157039)
