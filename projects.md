@@ -62,7 +62,7 @@ Bench: 205
 
 My first official PR on the squat, 295 lbs.
 
-![deadlift](/assets/deadlift355.png)
+![deadlift](/assets/deadlift335.png)
 
 Hitting my deadlift PR, 335 lbs.
 
