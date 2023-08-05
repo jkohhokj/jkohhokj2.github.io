@@ -2,13 +2,17 @@
 
 Here are some of the projects/hobbies I've been working on over the years:
 
+[Stonks (July 2023 - present)](#Trading)
+
 [Bouldering/Climbing (August 2022 - present)](#Climbing)
 
 [Lifting (April 2022 - present)](#Lifting)
 
+[Valorant (Late 2021 - present)](#Valorant)
+
 [Robotics (Late 2021 - present)](#Robotics)
 
-[OSU!game (Late 2021 - present)](#OSU!)
+[OSU!game (Late 2021 - 2023)](#OSU!)
 
 [Embedded Hacking and Reverse Engineering (Early 2021 - present)](#Embedded)
 
@@ -25,6 +29,10 @@ Here are some of the projects/hobbies I've been working on over the years:
 [Programming (2017 - present)](#Programming)
 
 [Honorable Mentions:](#Honorables)
+
+## Stonks (July 2023 - present): <a name="Trading"> </a>
+
+I wanna become rich by investing early.
 
 ## Bouldering and Climbing (August 2022 - present): <a name="Climbing"></a>
 
@@ -48,7 +56,7 @@ Got bored during a social event so decided to climb trees, also got my friends t
 
 Hardest ascents:
 
-Bouldering: V5, Momentum Silver Street
+Bouldering: V6, Momentum Silver Street
 
 Top Rope: 5.12a, Momentum Katy
 
@@ -77,6 +85,10 @@ Hitting a previous deadlift PR, 335 lbs.
 Hitting my bench PR, 225 lbs. Super hyped about it because I had plateaued for 3 months.
 
 Fitness & Gym Instagram: https://www.instagram.com/jkoh.jimbro/
+
+## Valorant (2021 - present): <a name="Valorant"></a>
+
+I'm super dogwater.
 
 ## Robotics (Late 2021 - present): <a name="Robotics"></a>
 
