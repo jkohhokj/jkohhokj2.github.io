@@ -37,6 +37,7 @@ Here are some of the projects/hobbies I've been working on over the years:
 > Swing trading is a style of trading that attempts to capture short- to medium-term gains in a stock (or any financial instrument) over a period of a few days to several weeks. Swing traders primarily use **technical analysis** to look for trading opportunities.
 
 I wanna become rich by investing early.
+
 ![[Stonks.png]]
 
 I use stochastic analysis with various technical indicators to predict optimal entry and exit times to capture the nature, random market fluctuations. Then I test that strategy across various iterations of historical market data to find the optimal strategy.
@@ -62,9 +63,12 @@ A more comprehensive and interactive list of trials periods:
 
 The main indicators I am testing out are the [KDJ oscillators](https://en.wikipedia.org/wiki/Stochastic_oscillator), [MACD crossovers](https://en.wikipedia.org/wiki/MACD), and [Bollinger Bands](https://en.wikipedia.org/wiki/Bollinger_Bands).
 
+
 ![[KDJ Indicator.png]]
 
+
 ![[MACD Indicator.png]]
+
 
 ![[Bollinger Band Indicator.png]]
 
@@ -73,7 +77,9 @@ The main indicators I am testing out are the [KDJ oscillators](https://en.wikipe
 
 This can be optimized by utilizing the Sharpe Ratio to find an initial prediction of the best combination of values:
 
+
 ![[SMA Optimization.png]]
+
 [Optimization Link](/assets/trading_samples/GOOG_SMA_Optimization.html)
 
 This example uses the crossover of the simple moving averages as a long and short indicator. It can be seen here that the optimal set of time frames are $n_1 = 10$ and $n_2 = 70$ with this set of data.
