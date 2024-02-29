@@ -11,4 +11,7 @@ Student, polyglot, runner, calisthenics athlete, programmer, reverse engineer, C
 
 ![the bwsi experience](/assets/bwsipic.png)
 
-[Resume](/assets/resume23.pdf)
+<iframe data= "/assets/Resume Spring 2024.5.pdf" 
+                width="800"
+                height="500"> 
+                </iframe> 

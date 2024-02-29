@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects.md",
+                "file": "about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects.md",
+                "file": "about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects.md"
+                "file": "about.md"
               }
             }
           }
@@ -148,9 +148,15 @@
   },
   "active": "d465c0ef8d493525",
   "lastOpenFiles": [
+    "assets/Resume.md",
+    "about.md",
+    "assets/resume23.pdf",
+    "assets/WebAppNotes.md",
+    "assets/Resume Spring 2024.5.pdf",
+    "projects.md",
+    "README.md",
     "assets/Bollinger Bands Indicator.png",
     "assets/Stonks.png",
-    "projects.md",
     "assets/SMA Optimization.png",
     "assets/trading_samples/GOOG_SMA_Optimization.html",
     "assets/Bollinger Band Indicator.png",
@@ -163,8 +169,6 @@
     "assets/trading_samples/SPY1M_5m2021-4.html",
     "assets/trading_samples/SPY1M_5m2021-3.html",
     "assets/trading_samples/SPY1M_5m2021-2.html",
-    "assets/trading_samples/SPY1M_5m2021-1.html",
-    "assets/trading_samples/SPY1M_5m2021-11.html",
     "assets/backtesting-technical-analysis-example.png",
     "test.html.md",
     "events.md"
