@@ -11,7 +11,10 @@ Student, polyglot, runner, calisthenics athlete, programmer, reverse engineer, C
 
 ![the bwsi experience](/assets/bwsipic.png)
 
-<iframe data= "/assets/Resume Spring 2024.5.pdf" 
-                width="800"
-                height="500"> 
-                </iframe> 
+<object data="https://jkohhokj.github.io/assets/Resume%20Spring%202024.5.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://jkohhokj.github.io/assets/Resume%20Spring%202024.5.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://jkohhokj.github.io/assets/Resume%20Spring%202024.5.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+[Resume Link](https://jkohhokj.github.io/assets/Resume%20Spring%202024.5.pdf)
+
